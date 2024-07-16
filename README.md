@@ -1,6 +1,6 @@
-# ruby-kernel-releses
-Kernel Development Releses for Device Redmi Note 12 Pro/Pro-Plus 
+Ruby KernelSU releases
+- Kernel Releses for Device Redmi Note 12 Pro/Pro-Plus 
 
-To install current releses you'll have to use custom rom recovery/custom recovery (twrp/ofox).
-In Custom Rom Recovery use, adb sideload ksu.zip.
-In Custom Recovery (twrp/ofox) install the zip file directly.
+To install .zip format releases you can use custom recovery or rom recovery, i.e. twrp, ofox
+
+To install .img releases you'll have to use platform-tools, i.e. adb fastboot commands
